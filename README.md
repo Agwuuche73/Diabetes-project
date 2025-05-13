@@ -23,6 +23,9 @@ To analyze health-related variables (such as glucose, BMI, blood pressure, insul
 - Create a visual dashboard for stakeholders (e.g., healthcare providers, researchers, public health officials) to easily interpret findings and make informed decisions.
 
 
+### Dataset: 
+Medicare Reimbursement Data by State (2014)[Download here] (https://www.kaggle.com/datasets/nancyalaswad90/review)
+
 ### Conclusions & Recommendations
 - High Risk Among Young Adults: The data shows a concerning diabetes rate in younger adults (20–40). Early screening and intervention strategies should target this demographic.
 - BMI & Glucose as Indicators: Elevated BMI and glucose levels are strong indicators of diabetes—emphasizing the need for lifestyle and dietary interventions.
