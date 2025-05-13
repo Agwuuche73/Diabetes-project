@@ -1,4 +1,4 @@
-# Diabetes-project
+# Diabetes-project(power bi and sql)
 
 
 
