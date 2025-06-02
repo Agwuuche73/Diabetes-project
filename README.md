@@ -24,10 +24,12 @@ To analyze health-related variables (such as glucose, BMI, blood pressure, insul
 
 
 ### Dataset: 
+
 Medicare Reimbursement Data by State (2014)[Download here] (https://www.kaggle.com/datasets/nancyalaswad90/review)
 
 ### Conclusions & Recommendations
+
 - High Risk Among Young Adults: The data shows a concerning diabetes rate in younger adults (20–40). Early screening and intervention strategies should target this demographic.
-- BMI & Glucose as Indicators: Elevated BMI and glucose levels are strong indicators of diabetes—emphasizing the need for lifestyle and dietary interventions.
+- BMI & Glucose as Indicators: Elevated BMI and glucose levels are strong indicators of diabetes, emphasizing the need for lifestyle and dietary interventions.
 - Preventative Programs: With over a third of the population diabetic, there’s a clear need for preventative healthcare programs, especially focused on weight management, exercise, and glucose monitoring.
 - Data Validation Tip: Verify the BMI/Glucose trend line chart—it seems to show decreasing values with diabetic outcome, which may be misleading based on the other visuals.
