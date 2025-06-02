@@ -1,6 +1,9 @@
 # Diabetes-project(power bi and sql)
 
-
+- [Problem Statement](#Problem-Statement)
+- [Data source](#Data-source)
+- [Project Objective](#Project-Objective)
+- [Conclusions & Recommendations](#Conclusions-&-Recommendations)
 
 ### Problem Statement
 
@@ -9,6 +12,7 @@ Diabetes is a growing public health concern, particularly in certain populations
 - High body mass index (BMI)
 - Increased blood pressure
 - Age distribution of cases
+
   
 …is essential to designing targeted health interventions and preventive care strategies.
 The problem is the lack of accessible, visual, and actionable analysis that links these medical indicators to diabetes outcomes in this specific population.
@@ -23,7 +27,7 @@ To analyze health-related variables (such as glucose, BMI, blood pressure, insul
 - Create a visual dashboard for stakeholders (e.g., healthcare providers, researchers, public health officials) to easily interpret findings and make informed decisions.
 
 
-### Dataset: 
+### Data source: 
 
 Medicare Reimbursement Data by State (2014)[Download here] (https://www.kaggle.com/datasets/nancyalaswad90/review)
 
